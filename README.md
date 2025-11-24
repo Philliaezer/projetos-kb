@@ -1,7 +1,7 @@
-# projetos-kb
-Base do conhecimento de meus projetos
+# Projects Knownledge Base
+Knownldge base for my projects.
 
 
-To-do:
-
-  - [ ] colocar aqui meus projetos da aba "Projetos" do GitHub
+Roadmap:
+  - [ ] Share here my projects from the "Projects" area from GitHub]
+  - [ ] Link this repository with my main README.md
